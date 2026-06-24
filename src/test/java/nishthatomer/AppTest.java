@@ -24,6 +24,7 @@ public class AppTest {
      * Rigorous Test :-)
      */
    public static void main(String[] args) {
+	   //new comments added 
 	   String productName="ZARA COAT 3";
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver = new ChromeDriver();
